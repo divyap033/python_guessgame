@@ -1,5 +1,6 @@
 answer = 5
 
+#This is a python guessing game
 print ("Please guess number between 1 and 10:")
 guess = int(input())
 
